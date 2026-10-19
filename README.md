@@ -1,1 +1,1 @@
-# CampusFlow-AI-Student-Planner
+# DEXTER-AI-Assistant
